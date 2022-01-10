@@ -3,6 +3,8 @@ public class GetPractice {
         //System.out.println("Hello world");
     //Doing awesome work 2 !
 
+    //Doing awesome work 3 !
+
 }
 /*
 Set your username:
