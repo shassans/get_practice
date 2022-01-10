@@ -1,6 +1,5 @@
-public class GetPractice {
-
-        //System.out.println("Hello world");
+public class HelloWorld {
+    //System.out.println("Hello world");
     //Doing awesome work 2 !
 
     //Doing awesome work 3 !
